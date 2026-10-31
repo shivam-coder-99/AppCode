@@ -87,7 +87,7 @@ class App extends Component {
                         fontWeight: "bolder",
                     }}
                 >
-                    SHIVAM - TODO LIST
+                    SHIVAM-TODO-LIST
                 </Row>
   
                 <hr />
